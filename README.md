@@ -1,7 +1,7 @@
 zim
 ===
 
-smallest (&lt;1kb) image zoomer
+tiny (&lt;1kb) image zoomer
 
 
 Usage
